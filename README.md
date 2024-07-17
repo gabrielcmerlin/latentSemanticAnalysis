@@ -1,5 +1,6 @@
-# Análise Semantica Latente
-O grupo formado pelos alunos Gabriel da Costa Merlin [12544420], João Pedro Mori Machado [13671831] e
-Vicenzo D`Arezzo Zilio [13671790] estudou e aplicou a técnica da Análise Semântica Latente como
-trabalho final da disciplina de Álgebra Linear e Aplicações ministrada pela professora Maria Luísa 
-Bambozzi de Oliveira durante o 2º semestre de 2023.
+# Latent Semantic Analysis
+
+The group formed by students Gabriel da Costa Merlin [12544420], João Pedro Mori Machado [13671831] and
+Vicenzo D`Arezzo Zilio [13671790] studied and applied the Latent Semantic Analysis technique as
+final work of the Linear Algebra and Applications course taught by professor Maria Luísa
+Bambozzi de Oliveira during the 2nd semester of 2023.
